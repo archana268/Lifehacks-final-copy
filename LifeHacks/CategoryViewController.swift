@@ -15,6 +15,8 @@ var detailarr = [String]()
  var mydetailtext = ""
 var carry : [String] = []
 
+//HELLO GIT TEst
+
 class
 CategoryViewController: UIViewController,UICollectionViewDelegate,UICollectionViewDataSource,UICollectionViewDelegateFlowLayout {
     
